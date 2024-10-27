@@ -1,7 +1,3 @@
-# --> Done Decoded By SHAJON
-#FIXED BY SHAJON
-#2007,8 SYSTEM ADDED BY SHAJON
-
 import uuid
 import base64
 import os
